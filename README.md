@@ -1,8 +1,7 @@
-### Hi i'm Jean Pierre 👋
-<h3">A researcher from Perú</h3>
+### Hi i'm Jean Pierre 👋 A researcher from Perú</h3>
 
 - :pill: I’m currently working on Medical Devices
-- :microscope: I’m currently learning about microfluidics
+- :microscope: I’m currently learning about Microfluidics
 - :thumbsup: I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Synthetic Biology
 - 💬 Ask me about 3D Modeling
