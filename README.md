@@ -1,5 +1,5 @@
 ### Hi i'm Jean Pierre 👋
-<h3 align="center">A researcher from Perú</h3>
+<h3">A researcher from Perú</h3>
 
 - :pill: I’m currently working on Medical Devices
 - :microscope: I’m currently learning about microfluidics
